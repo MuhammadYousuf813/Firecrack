@@ -35,7 +35,7 @@ more tools: :point_down:<br>
 **Termux:**
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/Ranginang67/Firecrack`
+* `git clone https://github.com/MuhammadYousuf813/Firecrack`
 * `cd Firecrack`
 * `pip2 install -r requirements.txt`
 * `python2 firecrack.py`
@@ -45,7 +45,7 @@ more tools: :point_down:<br>
 * `apt-get install python`
 * `apt-get install python-pip`
 * `apt-get install git`
-* `git clone https://github.com/Ranginang67/Firecrack`
+* `git clone https://github.com/MuhammadYousuf813/Firecrack`
 * `cd Firecrack`
 * `pip install -r requirements.txt`
 * `python firecrack.py`
